@@ -1,0 +1,195 @@
+2024-06-06 21:00:58 - Falha no login para o usuário: Desconhecido
+2024-06-07 10:41:35 - Login bem-sucedido para o usuário: PH
+2024-06-07 10:41:36 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 2 days, 18:33:12
+Permissões: Executando como usuário padrão
+
+2024-06-07 10:41:46 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-07 10:41:50 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-07 10:41:55 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-07 10:41:59 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:37:18 - Login bem-sucedido para o usuário: PH
+2024-06-09 13:37:19 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 4 days, 21:28:55
+Permissões: Executando como usuário padrão
+
+2024-06-09 13:37:32 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:37:36 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:37:41 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:37:45 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:37:49 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:37:54 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:37:58 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:38:02 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:38:07 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:38:11 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:38:16 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:38:20 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:38:24 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:38:29 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:38:33 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:38:40 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:38:44 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:38:48 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:38:52 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:42:23 - Login bem-sucedido para o usuário: PH
+2024-06-09 13:42:24 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 4 days, 21:34:00
+Permissões: Executando como usuário padrão
+
+2024-06-09 13:42:32 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:42:36 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:42:41 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:42:45 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:42:49 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:42:53 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:43:31 - Login bem-sucedido para o usuário: PH
+2024-06-09 13:43:32 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 4 days, 21:35:08
+Permissões: Executando como usuário padrão
+
+2024-06-09 13:43:40 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:43:44 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 13:43:49 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 14:20:51 - Login bem-sucedido para o usuário: PH
+2024-06-09 14:20:52 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 4 days, 22:12:28
+Permissões: Executando como usuário padrão
+
+2024-06-09 14:21:00 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 14:21:04 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 14:21:08 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 14:21:13 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 14:21:17 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 14:21:21 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 14:21:25 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 14:24:38 - Login bem-sucedido para o usuário: PH
+2024-06-09 14:24:39 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 4 days, 22:16:15
+Permissões: Executando como usuário padrão
+
+2024-06-09 14:24:47 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 16:10:51 - Login bem-sucedido para o usuário: PH
+2024-06-09 16:10:52 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 5 days, 00:02:28
+Permissões: Executando como usuário padrão
+
+2024-06-09 16:11:07 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:11:13 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:11:20 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:11:26 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:11:34 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:11:41 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:11:47 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:11:53 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:26:13 - Login bem-sucedido para o usuário: PH
+2024-06-09 16:26:14 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 5 days, 00:17:50
+Permissões: Executando como usuário padrão
+
+2024-06-09 16:26:19 - Erro ao inserir dados no banco de dados: Cannot create PoolableConnectionFactory (Unknown database 'medtech')
+2024-06-09 16:26:22 - Erro ao inserir dados no banco de dados: Cannot create PoolableConnectionFactory (Unknown database 'medtech')
+2024-06-09 16:26:26 - Erro ao inserir dados no banco de dados: Cannot create PoolableConnectionFactory (Unknown database 'medtech')
+2024-06-09 16:26:29 - Erro ao inserir dados no banco de dados: Cannot create PoolableConnectionFactory (Unknown database 'medtech')
+2024-06-09 16:26:33 - Erro ao inserir dados no banco de dados: Cannot create PoolableConnectionFactory (Unknown database 'medtech')
+2024-06-09 16:26:36 - Erro ao inserir dados no banco de dados: Cannot create PoolableConnectionFactory (Unknown database 'medtech')
+2024-06-09 16:28:18 - Login bem-sucedido para o usuário: PH
+2024-06-09 16:28:20 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 5 days, 00:19:55
+Permissões: Executando como usuário padrão
+
+2024-06-09 16:28:29 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:28:34 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:42:50 - Login bem-sucedido para o usuário: PH
+2024-06-09 16:42:51 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 5 days, 00:34:27
+Permissões: Executando como usuário padrão
+
+2024-06-09 16:43:01 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:43:07 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:48:17 - Login bem-sucedido para o usuário: PH
+2024-06-09 16:48:18 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 5 days, 00:39:54
+Permissões: Executando como usuário padrão
+
+2024-06-09 16:48:28 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:48:34 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 16:48:40 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 17:11:46 - Login bem-sucedido para o usuário: PH
+2024-06-09 17:11:47 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 5 days, 01:03:22
+Permissões: Executando como usuário padrão
+
+2024-06-09 17:11:57 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 17:23:20 - Login bem-sucedido para o usuário: PH
+2024-06-09 17:23:21 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 5 days, 01:14:57
+Permissões: Executando como usuário padrão
+
+2024-06-09 17:23:32 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 17:23:38 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Bateria
+2024-06-09 17:39:42 - Login bem-sucedido para o usuário: PH
+2024-06-09 17:39:43 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 5 days, 01:31:19
+Permissões: Executando como usuário padrão
+
+2024-06-09 17:39:56 - Dados coletados: Memória em uso: 14.102169036865234 GB, Uso de CPU: 0.6783594341810312 GHz, Armazenamento em uso: 232.33951568603516 GB
+2024-06-09 17:40:03 - Dados coletados: Memória em uso: 13.931705474853516 GB, Uso de CPU: 0.6783594341810312 GHz, Armazenamento em uso: 232.33951568603516 GB
+2024-06-09 17:40:08 - Erro ao inserir dados no banco de dados: Usuário não encontrado: PH
+2024-06-09 17:40:17 - Dados coletados: Memória em uso: 13.777088165283203 GB, Uso de CPU: 0.6783594341810312 GHz, Armazenamento em uso: 232.33951568603516 GB
+2024-06-09 17:40:25 - Dados coletados: Memória em uso: 13.798770904541016 GB, Uso de CPU: 0.6783594341810312 GHz, Armazenamento em uso: 232.33951568603516 GB
+2024-06-09 17:40:33 - Dados coletados: Memória em uso: 13.826690673828125 GB, Uso de CPU: 0.6783594341810312 GHz, Armazenamento em uso: 232.33951568603516 GB
+2024-06-09 17:40:41 - Dados coletados: Memória em uso: 13.806224822998047 GB, Uso de CPU: 0.6783594341810312 GHz, Armazenamento em uso: 232.33951568603516 GB
+2024-06-09 17:40:48 - Dados coletados: Memória em uso: 13.731529235839844 GB, Uso de CPU: 0.6783594341810312 GHz, Armazenamento em uso: 232.33951568603516 GB
+2024-06-09 17:43:45 - Login bem-sucedido para o usuário: PH
+2024-06-09 17:43:46 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 5 days, 01:35:22
+Permissões: Executando como usuário padrão
+
+2024-06-09 17:44:09 - Dados coletados: Memória em uso: 9.241226196289062 GB, Uso de CPU: 0.5595083798882682 GHz, Armazenamento em uso: 234.37796783447266 GB
+2024-06-09 17:44:20 - Dados coletados: Memória em uso: 9.150627136230469 GB, Uso de CPU: 0.5595083798882682 GHz, Armazenamento em uso: 234.37796783447266 GB

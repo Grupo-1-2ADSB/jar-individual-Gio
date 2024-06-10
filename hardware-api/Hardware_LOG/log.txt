@@ -1,0 +1,10 @@
+2024-06-09 14:42:58 - Login bem-sucedido para o usuário: PH
+2024-06-09 14:42:59 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-04T19:08:51Z
+Tempo de atividade: 4 days, 22:34:35
+Permissões: Executando como usuário padrão
+
+2024-06-09 14:43:08 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-09 14:43:12 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
